@@ -6,6 +6,7 @@ import java.util.*;
 public class MDB {
 	//aaasdadada
     
+    //Hola chabales Saludos desde bolibia
     //Shmebulock
 	protected String sqlQuery;
 	protected String table;
