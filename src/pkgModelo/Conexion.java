@@ -3,7 +3,7 @@ package pkgModelo;
 import java.sql.*;
 
 public class Conexion {
-	
+	///Hola, soy Ramiro de Jesús Hernández Bernabé
 	private String driver = null;
 	private String password = null;
 	private String url = null;
