@@ -4,7 +4,7 @@ import java.sql.*;
 import java.util.*;
 
 public class MDB {
-	
+	//aaasdadada
 	protected String sqlQuery;
 	protected String table;
 	protected Statement executer;
