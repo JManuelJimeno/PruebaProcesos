@@ -5,6 +5,8 @@ import java.util.*;
 
 public class MDB {
 	//aaasdadada
+    
+    //Shmebulock
 	protected String sqlQuery;
 	protected String table;
 	protected Statement executer;
@@ -18,7 +20,8 @@ public class MDB {
 	// conexion = new Conexion("com.mysql.jdbc.Driver",  "jdbc:mysql://127.0.0.1:3305/bddatos", "root","administrador");
         }
 
-   
+       //Hola  todoas
+        
 	public String registrarAlta(String nombreTabla, String consultaSQL){
 		int i;
 		String resultado;
