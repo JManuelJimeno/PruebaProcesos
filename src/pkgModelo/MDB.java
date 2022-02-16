@@ -19,6 +19,7 @@ public class MDB {
         }
 
         // Buenas Chavales
+        //aaaaaaaaaaaaaaaaaaaaa
 	public String registrarAlta(String nombreTabla, String consultaSQL){
 		int i;
 		String resultado;
